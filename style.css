@@ -1,0 +1,388 @@
+
+body{
+    margin-left: 10px;
+    text-align: justify;
+}
+
+#FotoEFuzzy {   
+    align-items: center;
+    margin-top: 25px;
+        
+}
+
+/*MENU SUPERIOR LOGO E LINK HOME-PAGE*/
+#imagem-gradiente{  
+   margin-left: 210px;
+   width: 1407.8px;
+}
+
+#texto-flexibilidade{
+   color: #036e9c;
+  
+}
+
+#texto-realismo{
+    color: #036e9c;
+}
+
+#texto-realismo{
+    color: #036e9c;
+}
+
+#texto-facilidade{
+    color: #036e9c;
+}
+
+#texto-adaptaçao{
+    color: #036e9c;
+}
+
+#titulo-menusuperior{
+    margin-left: 150px;
+    margin-top: 50px;   
+}
+
+#menusuperior{
+   width: 500px;
+   margin-left: 213.6px;
+   background-color: #080808;  
+   height: 300px;
+    
+
+}
+
+
+#texto-menusuperior{
+    margin-left: 62px;
+    margin-top: 10px;
+    color: #FFFFFF;          
+}
+
+#Resultados_Esperados{
+    
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+    grid-template-columns: ;
+}
+
+.menusuperior{
+    padding: 10px;
+    margin:  80px;        
+}
+
+#menusuperior{
+  
+    background-color: #080808;  
+    width: 1400px;   
+   
+}
+
+#menuinformacional{
+    background-color: #FFFFFF;
+    Display: grid;
+    grid-auto-flow: column;
+    columns: justify;   
+    width: 1400px;
+    margin-left: 250px;
+   
+}
+
+#offcanvas-header{    
+    padding: 10px;
+    margin: 2px 0px 80px 0px;    
+    cursor: pointer;  
+    
+}
+
+
+
+/*MENU DE ÍCONES SUPERIOR , SETAS, CABEÇA, MÃO......*/
+.ÍCONES{    
+    padding: 10px;
+    margin: 5px 0px 20px 110px;    
+    cursor: pointer;  
+    
+}
+
+.ÍCONES:hover{    
+    transform: translateY(-7px);
+    transition-duration: 0.5s ;
+    transform: scale(1.2);
+    shape-rendering: 10 15px  15px rgba(7, 7, 7, 0.6);   
+   
+    
+}
+
+/*MENU DE SEÇÃO VÍDEO, CAPA VÍDEO*/
+
+#titulovideo{
+    text-align: center;   
+}  
+
+#secaovideo{
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+    background-color: #FFFFFF;
+    width: 1410px;
+    margin-left: 113.6px;
+}
+
+.textoinformativo{
+    display: flex;
+    align-items: center;
+}
+
+
+
+#textovideo{
+    margin-left: 60px;
+    align: center;
+    columns: auto;  
+    width: 20PX ;  
+}
+
+#imagem_Capa_gera_valor{
+    margin: 70px 25px 50px 100px;
+    border-radius: 0px; 
+    margin-right: 1400px;
+}
+
+#video{
+    margin: 50px 25px 50px 100px;
+    border-radius: px;    
+    cursor: pointer;  
+}
+
+#video:hover{   
+    transition-duration: 0.5s ;
+    transform: scale(1.1);
+    box-shadow: 0 15px  15px rgba(1, 1, 7, 0.6);
+    cursor: pointer; 
+    animation-play-state: running;
+}
+
+/*MENU CARROSSEL*/
+
+#associações{
+    margin-right: 650px;
+}
+
+
+#carrossel{
+    background-color:#080808;         
+    padding: 80px 
+}
+
+#titulo-carrossel{    
+    color: #080808;
+    text-align: center;
+        
+}
+
+#carouselExampleSlidesOnly{  
+  text-align: center;
+  width: 1400px;
+  margin-left: 550px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+
+}
+
+.carousel-item{
+    text-align: center;
+}
+
+.carousel-inner{
+    position: center;
+    width: 1400px;
+    margin-left: 113.6px ;
+}
+
+/*MENU DE SEÇÃO FROMULÁRIO DE CONTATO, EMAIL, TELEFONE, NOME, BOTÃO*/
+
+
+.mb-3{
+    width: 500px;
+    margin-left: 455px;
+
+}
+
+#divformulario{
+    background-color: #c1c7c7;
+    grid-auto-flow: column;
+    align-items: center;
+    width: 1450px;
+    margin-left: 213.6px;
+}
+
+.formularionome{
+    background-color: #f0f3f5;
+    margin-left: 500px;
+}
+
+
+#formulariobotão{
+    background-color: #070707;    
+    text-align: center;    
+}
+
+
+#tituloformulario{
+    color:#FFFFFF;
+    margin-top: 30px;
+    margin-left: 60px;
+    align: center;
+    columns: auto;
+    
+}
+#formularionome{
+    margin-left: 700px;    
+}
+
+#formularioemail{
+    margin-left: 700px; 
+}
+
+#formulariotelefone{
+    margin-left: 700px; 
+}
+
+#formulariobotão{
+    margin-left: 575px; 
+    color: #FFFFFF
+}
+
+input{
+    width: 413px;
+    height: 35px;
+    background-color: hsl(80, 100%, 99%);
+    margin: 15px;
+    border: 0px;
+    border-radius: 5px;
+    padding-left: 10px;
+}
+
+button{
+    background-color: #FFFFFF;
+    height: 40px;
+    width: 250px;
+    color: #EAECE5;
+    border-radius: 5px;
+    margin-bottom: 50px;
+    font-weight: bolder;
+    cursor: pointer;
+    
+}
+
+button:hover{
+    background-color: #318fb8;
+    color: white;
+    transform: translateY(-7px);
+    box-shadow: 0px 15px 20px #a09797;
+    box-shadow: 0 15px  15px rgba(8, 8, 8, 0.6);
+    transition-duration: 0.4s;
+    
+}
+
+#FotoEFuzzy{
+    margin-left: 50px;
+    margin-bottom: 20px;
+    
+}
+
+#otimização_da_energia{
+    margin-left: 800px;
+    margin-bottom: 20px;
+    width: 500px;
+    
+}
+#carouselExampleFade{
+    width: 50px;
+    height: 50px;
+}
+
+#slide-1{
+    color: #000000;
+    margin-top: px;
+}
+
+
+/*MENU REDES SOCIAIS*/
+
+
+#redes-sociais{
+    background-color: #FFFFFF;
+    Display: grid;
+    grid-auto-flow: column;
+    columns: justify;   
+    width: 1400px;
+    margin-left: 360px;
+    margin-top: 50px;       
+}
+
+#redes-sociais2{
+    margin-left: 795px;
+    margin-top: 30px;
+}
+
+
+
+/*MENU SOBRE, EQUIPE E CLIENTES POTENCIAL*/
+
+#accordionFlushExample{
+   width: 1407.8px;
+   background-color: #080808;
+   margin-left: 240px;
+}
+
+
+/*DIV SEPARADOR DE FORMULÁRIO E REDES SOCIAIS*/
+
+#premiação{
+    color: #080808;
+    text-align: center;
+    margin-top: 60px;  
+
+}
+
+#conquistas{
+    margin-right: 90px;
+}
+
+#imagem-gradiente2{   
+    width: 1407.8px;
+}
+
+#imagem-gradiente3{   
+    width: 1407.8px;
+    margin-right: 20px;
+    
+}
+
+#rodapé{
+    background-color: #080808;
+    width: 1400px;
+    margin-left: 250px;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    height: 150px;
+}
+
+#equipe{
+    width: 1400px; ;
+    margin-right: 40px;
+    height: 800px;
+}
+
+#fale-conosco{
+    width: 500px;
+    margin-left: 550px;
+    color: #070707;
+}
+
+#mensagem{
+    color: #FFFF070707;
+    margin-left: 100px
+}
